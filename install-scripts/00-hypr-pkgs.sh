@@ -54,6 +54,15 @@ gbar-git
 code
 octopi
 firefox
+themix-full-git
+spotify
+libreoffice-fresh
+leafpad
+hyprpaper
+local-by-flywheel-bin
+screamingfrogseospider
+fotocx
+countdown
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
