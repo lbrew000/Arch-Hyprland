@@ -9,7 +9,7 @@ sddm=(
   qt6-5compat 
   qt6-declarative 
   qt6-svg
-  sddm
+  sddm-git
 )
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
