@@ -7,8 +7,10 @@ thunar
 thunar-volman 
 tumbler
 ffmpegthumbnailer
-file-roller 
+ark
 thunar-archive-plugin
+thunar-media-tags-plugin
+gvfs-onedrive
 )
 
 ## WARNING: DO NOT EDIT BEYOND THIS LINE IF YOU DON'T KNOW WHAT YOU ARE DOING! ##
