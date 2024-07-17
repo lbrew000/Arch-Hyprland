@@ -43,14 +43,17 @@ slurp
 swappy 
 swaync 
 swww
-wallust-git 
-waybar
+wallust-git
 wget
 wl-clipboard
 wlogout
 xdg-user-dirs
 xdg-utils 
 yad
+gbar-git
+code
+octopi
+firefox
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
